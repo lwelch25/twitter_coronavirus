@@ -43,6 +43,8 @@ To conclude, this process allowed me to gain insights into the usage of coronavi
 
 ![Twitter Country Korean Hashtag Data (2020)](twitter_korean_barchart_country.png)
 
+![Comparing coronavirus and mentalhealth hashtags (2020)](Alternative_reduce_linechart.png)
+
 ## Graph Analysis
 
 ### Twitter Multilingual Coronavirus Hashtag Data (2020)
@@ -59,4 +61,6 @@ This graph represents the usage frequency of the hashtag '#coronavirus' on Twitt
 
 ### Twitter Country Korean Hashtag Data (2020)
 
-  
+### Comparing coronavirus and mentalhealth hashtags (2020)
+
+This graph represents the usage frequency of the hashtag '#coronavirus' and compares it with mentalhealth hastagssuch as '#mentalhealth' '#anxiety' and '#depression'. 

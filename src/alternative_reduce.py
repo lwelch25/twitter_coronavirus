@@ -32,9 +32,9 @@ for key in args.keys:
             y_axis.append(tot)
     plt.plot(np.arange(len(y_axis)), y_axis, label = key)
 
-plt.title('Daily count of 2020 tweets (hashtags)')
-plt.xlabel('2020 Date')
+plt.title('Comparing coronavirus and mentalhealth hashtags')
+plt.xlabel('2020')
 plt.xticks([0, 200, 400, 600], ["Jan", "Mar", "Jun", "Sep"])
-plt.ylabel('Tweet Count')
+plt.ylabel('Number of tweets that use that hashtag during the year')
 plt.legend()
-plt.savefig('Alternative_reduce_plot.png')
+plt.savefig('Alternative_reduce_linechart.png')
