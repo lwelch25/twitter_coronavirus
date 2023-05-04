@@ -59,4 +59,5 @@ This graph represents the usage frequency of the hashtag '#coronavirus' on Twitt
 
 ### Twitter Country Korean Hashtag Data (2020)
 
+This figure presents a visualization of the usage frequency of the Korean hashtag #코로나바이러스 (which translates to "#coronavirus" in English) on Twitter throughout 2020, across various countries supported by the platform. The graph provides a comparative analysis of the total number of times the hashtag was used in each country, offering insights into the prevalence of discussions related to the COVID-19 pandemic within different regions. As per the graph, the highest number of tweets containing the #코로나바이러스 hashtag was observed in South Korea, indicating that the topic was highly relevant and actively discussed on the platform within the country. Hong Kong and Spain follow closely behind, suggesting that the pandemic was also a significant concern in these countries.
   
